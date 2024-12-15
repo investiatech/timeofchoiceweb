@@ -7,7 +7,7 @@ export default function Testimonials() {
                         <path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor" />
                     </svg>
                     <blockquote>
-                        <p className="text-2xl font-medium text-gray-900 dark:text-white">"Grając w „Czas Wyborów” poczułam się, jakbym naprawdę zarządzała kampanią wyborczą. Każda decyzja miała wpływ na wynik, co sprawiło, że każda chwila była ekscytująca. Uwielbiam, jak realistycznie przedstawiono proces wyborczy, a interaktywne debaty to prawdziwa gratka!"</p>
+                        <p className="text-2xl font-medium text-gray-900 dark:text-white">Grając w &quot;Czas Wyborów&quot; poczułam się, jakbym naprawdę zarządzała kampanią wyborczą. Każda decyzja miała wpływ na wynik, co sprawiło, że każda chwila była ekscytująca. Uwielbiam, jak realistycznie przedstawiono proces wyborczy, a interaktywne debaty to prawdziwa gratka!&quot;</p>
                     </blockquote>
                     <figcaption className="flex items-center justify-center mt-6 space-x-3">
 

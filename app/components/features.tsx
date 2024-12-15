@@ -1,4 +1,3 @@
-import Woman from '/assets/woman.png'
 import Man from '/assets/man.png'
 import Image from 'next/image'
 
@@ -20,7 +19,7 @@ export default function Features() {
                 </div>
                 <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Dlaczego Warto Zagrać?</h2>
-                    <p className="mb-4">Zanurz się w emocjonującym świecie polityki i wyborów prezydenckich. Gra oferuje wyjątkową okazję, by stać się liderem kraju, podejmować strategiczne decyzje i kształtować przyszłość narodu. Przeżyj ekscytującą kampanię wyborczą, zmagając się z rywalami, negocjując z mediami i zdobywając serca wyborców. Każda decyzja ma znaczenie – od kształtowania wizerunku po wybór kluczowych sojuszników. Czeka na Ciebie intensywna rozgrywka, która pozwoli poczuć się jak prawdziwy lider!"</p>
+                    <p className="mb-4">Zanurz się w emocjonującym świecie polityki i wyborów prezydenckich. Gra oferuje wyjątkową okazję, by stać się liderem kraju, podejmować strategiczne decyzje i kształtować przyszłość narodu. Przeżyj ekscytującą kampanię wyborczą, zmagając się z rywalami, negocjując z mediami i zdobywając serca wyborców. Każda decyzja ma znaczenie – od kształtowania wizerunku po wybór kluczowych sojuszników. Czeka na Ciebie intensywna rozgrywka, która pozwoli poczuć się jak prawdziwy lider!</p>
                 </div>
             </div>
         </section>

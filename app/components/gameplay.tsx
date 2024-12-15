@@ -1,5 +1,4 @@
 import Woman from '/assets/woman.png'
-import Man from '/assets/man.png'
 import Image from 'next/image'
 
 export default function Gameplay() {
